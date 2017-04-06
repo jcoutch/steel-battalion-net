@@ -1,3 +1,5 @@
+Migrated from http://steelbattalionnet.codeplex.com/ (since [CodePlex is shutting down](https://blogs.msdn.microsoft.com/bharry/2017/03/31/shutting-down-codeplex/))
+
 Note from the writer:
 ----------------------
 
