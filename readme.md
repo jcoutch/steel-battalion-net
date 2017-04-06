@@ -17,7 +17,7 @@ Thanks for using this project, and let me know if you have any questions.
 
 Sincerely,
 Joe Coutcher
-http://www.geekteligence.com/
+http://nuts4.net/
 
 
 
@@ -50,6 +50,4 @@ http://icsharpcode.net/
 Usage of SteelBattalion.NET:
 -----------------------------
 
-The sample project included demonstrates how to use the library.  If you have any additional questions, please post a message on the Discussion tab at the CodePlex site:
-
-http://steelbattalionnet.codeplex.com/
+The sample project included demonstrates how to use the library.  If you run into any isues, feel free to create an issue on GitHub.
