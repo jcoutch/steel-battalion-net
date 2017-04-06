@@ -51,3 +51,6 @@ Usage of SteelBattalion.NET:
 -----------------------------
 
 The sample project included demonstrates how to use the library.  If you run into any isues, feel free to create an issue on GitHub.
+
+Also, here's a video demo of this library in action:
+[![Steel Battalion Controller controlling UStream](http://img.youtube.com/vi/_Qd5NKM5wH8/0.jpg)](http://www.youtube.com/watch?v=_Qd5NKM5wH8)
